@@ -1,5 +1,12 @@
 ### Hi there 👋
 hello
+
+I'm Jewel Mullick
+
+Currently: BCS(H)Comp sci Student at University of Utkala at Odisha.
+💻 I'm Currently Learning and workng on UI/UX Designing looking to be a product designer
+
+Check out my GitHub repository:
 <!--
 **jewelmullick/jewelmullick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
