@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Jewel Mullick!](https://www.linkedin.com/in/jewelmullick/) 
 
     I'm Jewel Mullick,
     
