@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jewel Mullick, a Product Designer 💻</div>  
+### <div align="center">I'm Jewel Mullick, a Product Designer 👾</div>  
   
 
 - 🔭 I’m currently learning everything ;) 
