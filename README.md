@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Jewel, a Product Designing and Web Development 💻</div>  
   
 
-- 🔭 I’m currently  Student  
+- 🔭 I’m currently learning everything ;) 
   
 
-- 🎓Currently : BCS(H)Comp Sci Student at University of Utkala at Odisha.  
+- 🎓 Currently : BCS(H)Comp Sci Student at University of Utkala at Odisha.  
   
 
 - 💻 I'm Currently Learning and workng on UI/UX Designing looking to be a product designer  
@@ -79,6 +79,15 @@
 <br/>  
 
 
+  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jewelmullick&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/jewelmullick" target="_blank">
@@ -96,41 +105,5 @@
 </div>  
   
 
-<br/>  
+<br/>
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jewelmullick&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Jewelmullick" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
