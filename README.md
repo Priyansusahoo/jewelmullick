@@ -6,13 +6,13 @@
 ### <div align="center">I'm Jewel Mullick, a Product Designer 👾</div>  
   
 
-- 🔭 I’m currently learning everything ;) 
+- 🔭 I’m Currently Learning Everything :) 
   
 
-- 🎓 Currently : BCS(H)Comp Sci Student at University of Utkala at Odisha.  
+- 🎓 Currently : BCS(H)Comp Sci Student At University Of Utkal At Odisha.  
   
 
-- 💻 I'm Currently Learning UI/UX Designing aspiring to be a product designer    
+- 💻 I'm Currently Learning UI/UX Designing Aspiring To Be A Product Designer    
   
 
 <br/>  
@@ -48,7 +48,7 @@
 
 
 
-## Connect with me  
+## Connect With Me  
 <div align="center">
 <a href="https://github.com/https://github.com/jewelmullick" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
